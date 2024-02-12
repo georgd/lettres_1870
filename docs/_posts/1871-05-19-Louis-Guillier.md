@@ -17,9 +17,9 @@ post_scriptum: |
   votre réponse pour lui faire connaître vos intentions.—
 
   <div data-lang="de">
-  Kunst hat den Anschaust in <span data-lang="fr">Caen</span>
-  vorsund kommt aber erst um 9 Uhr heute Abend. Von <span
-  data-lang="fr">Paris</span> nichts Neuer; ich gehe morgen hin; Schaubt mir vonst bald.
+  Kunst hat den Anschluß in <span data-lang="fr">Caen</span>
+  versäumt, kommt also erst um 9 Uhr heute Abend. Von <span
+  data-lang="fr">Paris</span> sonst nichts Neues; ich gehe morgen hin; Schreibt mir recht bald.
 
   <div class="signature">
   In Liebe Euer Ludwig
